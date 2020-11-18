@@ -1,6 +1,8 @@
 # Rob's Mac Setup
 
-1. System Preferences
+1. Clone this repo `git@github.com:roschwartz79/myConfig.git`
+    * If there are issues, setup an ssh key. [Instructions](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)
+2. System Preferences
     * Mouse
         * Scroll direction: *Natural*
         * Secondary Click: *Right side*
@@ -12,7 +14,7 @@
         * No magnification
         * Uncheck automatically hide and show dock
 
-2. Install the following:
+3. Install the following:
     * [iterm2](https://iterm2.com/) 
         * Set theme to "Dark (High Contrast)"
         * Preferences (⌘,) -> Profiles -> Other Actions -> Import JSON Profiles
