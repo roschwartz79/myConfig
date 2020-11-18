@@ -664,6 +664,7 @@
         }
       },
       "Window Type" : 0,
+      "Cursor Type" : 1,
       "Background Image Location" : "",
       "Blur" : false,
       "Badge Color" : {
@@ -1047,6 +1048,7 @@
         "Green Component" : 0.1491314172744751
       },
       "Ambiguous Double Width" : false,
+      "Cursor Type" : 1,
       "Ansi 0 Color" : {
         "Green Component" : 0.13574660633484159,
         "Blue Component" : 0.13574660633484159,
@@ -1406,6 +1408,7 @@
         }
       },
       "Window Type" : 0,
+      "Cursor Type" : 1,
       "Background Image Location" : "",
       "Blur" : false,
       "Badge Color" : {
