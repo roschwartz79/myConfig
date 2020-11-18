@@ -1,6 +1,6 @@
 # Rob's Mac Setup
 
-1. Clone this repo `git@github.com:roschwartz79/myConfig.git`
+1. Clone this repo `git clone git@github.com:roschwartz79/myConfig.git`
     * If there are issues, setup an ssh key. [Instructions](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)
 2. System Preferences
     * Mouse
