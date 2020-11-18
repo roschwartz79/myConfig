@@ -14,6 +14,15 @@
 
 2. Install the following:
     * [iterm2](https://iterm2.com/) 
+        * Set theme to "Dark (High Contrast)"
+        * Preferences (⌘,) -> Profiles -> Other Actions -> Import JSON Profiles
+        * Select the Profile.json that is included in this repo
+        * ⌘D then ⌘⇧D, then assign each window to the appropriate profile
+        * ⌘⇧S to save a custom window arrangement, name as `Main Arrangement`
+        * Preferences (⌘,) -> Keys
+            * Click into the shortcut and use ⌘⇧w, set action to "Select Menu Item"
+            * Look for "Window" category, then subcategory named "Restore Window Arrangement"
+        * Additional information [here](https://blog.andrewray.me/how-to-create-custom-iterm2-window-arrangments/)
     * [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/)
     * [Homebrew](https://brew.sh/)
         * `brew update`
